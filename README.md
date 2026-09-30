@@ -1,4 +1,3 @@
-# Wazuh_home_SOC_lab
 # 🛡️ Wazuh Home SOC Lab
 
 ## End-to-End Security Monitoring Lab
