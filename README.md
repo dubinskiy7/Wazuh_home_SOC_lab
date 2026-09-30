@@ -55,4 +55,4 @@ The main goal of the lab is to build a complete security monitoring pipeline:
 
 For the complete step-by-step setup, configuration details, screenshots, testing, and project documentation:
 
-👉 **[View Full Project Report (PDF)]([./Wazuh_SOC_Home_Lab_Project.pdf](https://github.com/dubinskiy7/Wazuh_home_SOC_lab/blob/main/Wazuh_home_SOC_Lab%20.pdf))**
+👉 **[View Full Project Report (PDF)](https://github.com/dubinskiy7/Wazuh_home_SOC_lab/blob/main/Wazuh_home_SOC_Lab%20.pdf)**
